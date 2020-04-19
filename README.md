@@ -5,7 +5,6 @@ Getting power usage from a hall sensor using a Python3 script
 This is a simple code that changes hall sensor data to power consumption.
 Her is the schematic.
 ![Schematic](/images/schematic.jpg)
-Format: ![Alt Text](url)
 
 ## Installation
 1. Clone this repository
