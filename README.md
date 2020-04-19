@@ -16,12 +16,17 @@ Here is the schematic.
   
 ## Usage
 **main.py** reads all the csv files from a specific directory (default is demo/data) and outputs them in a single output.csv
+
 **plot.py** The console will print all the csv files from a specific directory (default is demo/data), you will have to select and index to plot a graph.
 
 ## Demo
-There is a demo available
-**demo/data/** is where all the raw data is
+There is a demo available.
+
+**demo/data/** is where all the raw data is.
+
 **demo/idle-value/** is where the idle (noise) measurement is
+
+
 
 Feel free to adapt/change/steal this code as many times as you want. If you have any cool projects feel free to show them to me! 
 
